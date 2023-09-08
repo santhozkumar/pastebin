@@ -1,0 +1,2 @@
+# pastebin
+pastebin  practice golang
